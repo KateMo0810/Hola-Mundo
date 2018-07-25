@@ -18,6 +18,8 @@ public class HolaMundo {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("total");
+        System.out.println("buenas tardes"
+                + "escribo esta carta para decir que el servidor se cayo, si es tan amable de arreglarlo");
     }
     
 }
